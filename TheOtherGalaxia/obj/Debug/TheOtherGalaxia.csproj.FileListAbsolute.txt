@@ -1,0 +1,10 @@
+C:\Users\Potato\source\repos\TheOtherGalaxia\TheOtherGalaxia\bin\Debug\TheOtherGalaxia.exe.config
+C:\Users\Potato\source\repos\TheOtherGalaxia\TheOtherGalaxia\bin\Debug\TheOtherGalaxia.exe
+C:\Users\Potato\source\repos\TheOtherGalaxia\TheOtherGalaxia\bin\Debug\TheOtherGalaxia.pdb
+C:\Users\Potato\source\repos\TheOtherGalaxia\TheOtherGalaxia\obj\Debug\TheOtherGalaxia.csprojAssemblyReference.cache
+C:\Users\Potato\source\repos\TheOtherGalaxia\TheOtherGalaxia\obj\Debug\TheOtherGalaxia.Form1.resources
+C:\Users\Potato\source\repos\TheOtherGalaxia\TheOtherGalaxia\obj\Debug\TheOtherGalaxia.Properties.Resources.resources
+C:\Users\Potato\source\repos\TheOtherGalaxia\TheOtherGalaxia\obj\Debug\TheOtherGalaxia.csproj.GenerateResource.cache
+C:\Users\Potato\source\repos\TheOtherGalaxia\TheOtherGalaxia\obj\Debug\TheOtherGalaxia.csproj.CoreCompileInputs.cache
+C:\Users\Potato\source\repos\TheOtherGalaxia\TheOtherGalaxia\obj\Debug\TheOtherGalaxia.exe
+C:\Users\Potato\source\repos\TheOtherGalaxia\TheOtherGalaxia\obj\Debug\TheOtherGalaxia.pdb
